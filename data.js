@@ -12,7 +12,7 @@ export const profile = {
   cv: "/cv.pdf", // dépose ton CV dans /public/cv.pdf
   links: [
     { label: "LinkedIn", url: "https://www.linkedin.com/in/darga-grace-8ba3a3392/" },
-    { label: "GitHub", url: "https://github.com/dargagrace" },
+    { label: "GitHub", url: "https://github.com/grace-darga" },
     { label: "TryHackMe", url: "https://tryhackme.com/p/dargagrace1" },
   ],
 };
